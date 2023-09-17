@@ -1,0 +1,55 @@
+html {
+	background-color: rgb(33, 37, 41);
+	font-size: 1rem;
+}
+body {
+	background-color: rgb(33, 37, 41);
+}
+p { 
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3 {
+	font-size: 17px;
+}
+.burger {
+	width: 35px;
+	height: 5px;
+	background-color: black;
+	margin: 6px 0;
+}
+.container-fluid {
+	display: flex;
+	flex-direction: row-reverse;
+}
+h1 {
+	color: whitesmoke;
+}
+img {
+	overflow: hidden;
+}
+body {
+	background-color: rgb(33, 37, 41);
+}
+#Jonatan {
+	display: flex;
+	justify-content: center;
+	font-size: 50px;
+}
+#Jonatan:hover {
+	background: -webkit-linear-gradient(#e0ef16, #eb0707);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+#Frontenddeveloper:hover {
+	background: -webkit-linear-gradient(#16e0ef, #2deb07);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+#zack {
+	width: 40%;
+	height: auto;
+}
